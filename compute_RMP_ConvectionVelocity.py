@@ -147,7 +147,7 @@ class RMP_ConvectionVelocityCalculator:
         fig.tight_layout(pad=2.0)
         plt.xticks(fontsize=12)
 
-        fig.savefig('freqdomain.png', dpi=300)
+        # fig.savefig('freqdomain.png', dpi=300)
 
     def plot_timedomain(self,result_plot):
         """
@@ -165,7 +165,8 @@ class RMP_ConvectionVelocityCalculator:
         plt.show()
         plt.xticks(fontsize=12)
 
-        fig.savefig('timedomain.png', dpi=300)
+        # fig.savefig('timedomain.png', dpi=300)
+
 
 
 
