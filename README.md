@@ -12,7 +12,7 @@ The complex cross-spectral density between two chordwise RMPs gives access to th
 By assuming disturbances are frozen and convect with speed Uc, and applying Fourier analysis, a hydrodynamic wavelength 2πUc/ω produces wall-pressure signals at the streamwise positions 
 x1 and x2=x1+Δx, with the two signals exhibiting a phase shift. The convection velocity can be estimated with [1,2]:
 
-<img width="85" height="40" alt="eq_freq" src="https://github.com/user-attachments/assets/4c3e6c12-5a7e-47a2-913f-e6f26de21b5e" /> <br />
+<img margin=auto width="85" height="40" alt="eq_freq" src="https://github.com/user-attachments/assets/4c3e6c12-5a7e-47a2-913f-e6f26de21b5e" /> <br />
 where delta_x is the probe separation, delta_phi/delta_w is the linear phase slope. 
 
 
