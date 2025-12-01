@@ -24,8 +24,6 @@ Then the time lag delta_tau_max corresponding to the peak of this function is id
 Under the assumption of frozen turbulence, the convection velocity can thus be estimated using the simple relation [3]:
 
 <img width="81" height="39" alt="eq_time" src="https://github.com/user-attachments/assets/fa140943-6ddd-4c0b-908c-f86f5bbede11" /> <br />
-where delta_x is the probe separation, 
-
 
 <img width="3600" height="1800" alt="timedomain" src="https://github.com/user-attachments/assets/8e74c753-3e5a-41e3-a679-d2a0bf71f17b" />
 
