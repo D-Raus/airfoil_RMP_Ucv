@@ -28,6 +28,6 @@ Under the assumption of frozen turbulence, the convection velocity can thus be e
 <img width="3600" height="1800" alt="timedomain" src="https://github.com/user-attachments/assets/8e74c753-3e5a-41e3-a679-d2a0bf71f17b" />
 
 # References
-[1] Moreau, S.; Roger, M. Effect of airfoil aerodynamic loading on trailing edge noise sources. AIAA J. 2005, 43, 41–52.
-[2] Yakhina, Gyuzel, et al. "Experimental and analytical investigation of the tonal trailing-edge noise radiated by low Reynolds number aerofoils." Acoustics. Vol. 2. No. 2. MDPI, 2020.
+[1] Moreau, S.; Roger, M. Effect of airfoil aerodynamic loading on trailing edge noise sources. AIAA J. 2005, 43, 41–52. <br />
+[2] Yakhina, Gyuzel, et al. "Experimental and analytical investigation of the tonal trailing-edge noise radiated by low Reynolds number aerofoils." Acoustics. Vol. 2. No. 2. MDPI, 2020. <br />
 [3] Bertagnolio, F., Aagaard Madsen , H., Fischer, A., & Bak, C. (2015). Experimental Characterization of Stall Noise Toward its Modelling. In Proceedings of the 6th International Conference on Wind Turbine Noise
