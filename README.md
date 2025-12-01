@@ -8,17 +8,24 @@ By using a pair of two chordwise RMPs located at the midspan, one can estimate t
 Two methods to compute the convection velocity between two flush mounted RMPs are implemented here:
 
 # In the frequency domain
-slope of the phase of the complex cross-spectral density
-![Tex2Img_1764606505](https://github.com/user-attachments/assets/d65ee804-25c4-4fca-ab9c-e28596cab917)
+The complex cross-spectral density between two chordwise RMPs gives access to the phase speed of the convected pressure field.
+By assuming disturbances are frozen and convect with speed Uc, and applying Fourier analysis, a hydrodynamic wavelength 2πUc/ω produces wall-pressure signals at the streamwise positions 
+x1 and x2=x1+Δx, with the two signals exhibiting a phase shift. The convection velocity can be estimated with [1,2]:
 
+<img width="85" height="40" alt="eq_freq" src="https://github.com/user-attachments/assets/4c3e6c12-5a7e-47a2-913f-e6f26de21b5e" />
+where delta_x is the probe separation, delta_phi/delta_w is the linear phase slope. 
 
 
 <img width="4200" height="1500" alt="freqdomain" src="https://github.com/user-attachments/assets/8a079e1d-0825-4995-bf57-6c29fb9a9d18" />
 
 # In the time domain
-The cross-correlation function of the two RMPs signals is computed. Then the time lag delta_tau_max corresponding to the peak of this function is identified. 
+The cross-correlation function of the two RMPs signals is computed. 
+Then the time lag delta_tau_max corresponding to the peak of this function is identified. 
 Under the assumption of frozen turbulence, the convection velocity can thus be estimated using the simple relation [3]:
-Uc = delta_x / delta_tau_max
+
+<img width="81" height="39" alt="eq_time" src="https://github.com/user-attachments/assets/fa140943-6ddd-4c0b-908c-f86f5bbede11" />
+where delta_x is the probe separation, 
+
 
 <img width="3600" height="1800" alt="timedomain" src="https://github.com/user-attachments/assets/8e74c753-3e5a-41e3-a679-d2a0bf71f17b" />
 
