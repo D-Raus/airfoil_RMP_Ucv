@@ -13,7 +13,7 @@ By assuming disturbances are frozen and convect with speed Uc, and applying Four
 x1 and x2=x1+Δx, with the two signals exhibiting a phase shift. The convection velocity can be estimated with [1,2]:
 
 <img width="85" height="40" alt="eq_freq" src="https://github.com/user-attachments/assets/4c3e6c12-5a7e-47a2-913f-e6f26de21b5e" /> <br />
-where delta_x is the probe separation, delta_phi/delta_w is the linear phase slope. 
+where Δx is the probe separation, Δphi/Δw is the linear phase slope. 
 
 
 <img width="4200" height="1500" alt="freqdomain" src="https://github.com/user-attachments/assets/8a079e1d-0825-4995-bf57-6c29fb9a9d18" />
